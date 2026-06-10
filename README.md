@@ -18,9 +18,9 @@
 
 🎓 **Economic Cybernetics, Statistics & Computer Science** — ASE Bucharest (2024-2027)
 
-I'm a second-year student passionate about **cybersecurity**, **AI systems**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes — from reverse-engineering live APIs to building privacy-focused AI agents.
+I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes — from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage.
 
-Currently exploring the intersection of **AI and security** — how AI systems can be both a tool and a target.
+Currently exploring the intersection of **AI and security** — how AI systems can be both a powerful tool and an attack surface.
 
 ---
 
@@ -29,23 +29,29 @@ Currently exploring the intersection of **AI and security** — how AI systems c
 <table>
   <tr>
     <td width="50%">
-      <h3>✈️ <a href="https://github.com/Stevenenson/JetSeeker-VibeHack2026">JetSeeker</a></h3>
-      <p><strong>VibeHack Bucharest 2026</strong> — Vola.ro AI Challenge</p>
-      <p>WhatsApp AI travel assistant with real-time flight search. Reverse-engineered Vola.ro's API, built LLM function-calling pipeline, integrated Twilio for WhatsApp messaging.</p>
+      <h3>🔐 <a href="https://github.com/Stevenenson/PrivAI-AIAgentHackathon2026">PrivAI</a></h3>
+      <p><strong>AI Agent Olympics — Milan AI Week 2026</strong></p>
+      <p><em>Fiera Milano, Italy · May 13-20 · $32K+ prize pool</em></p>
+      <p>Privacy-first AI workspace where all data stays on-device in SQLite. Built with a team of 4 at Europe's largest AI conference. Features a privacy guard for PII redaction, autonomous agent workflows, and Gemini-powered multi-model intelligence.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3>🔐 <a href="https://github.com/Stevenenson/PrivAI-AIAgentHackathon2026">PrivAI</a></h3>
-      <p><strong>AI Agent Week Fest — Milano 2026</strong> (In-person)</p>
-      <p>Privacy-focused AI agent built at the international AI Agent Hackathon in Milan, Italy. Worked in a team of 4 to design intelligent agents with a focus on data privacy and security.</p>
+      <h3>✈️ <a href="https://github.com/Stevenenson/JetSeeker-VibeHack2026">JetSeeker</a></h3>
+      <p><strong>VibeHack Bucharest — Vola.ro AI Challenge</strong></p>
+      <p><em>Bucharest, Romania · March 14-15 · 24-hour build</em></p>
+      <p>WhatsApp AI travel assistant that searches real flights via reverse-engineered API, analyses booking screenshots with vision LLMs, and identifies destinations from photos. Built for group chat dynamics.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=flat" />
-        <img src="https://img.shields.io/badge/Privacy-2EA44F?style=flat&logo=shield&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -62,6 +68,7 @@ Currently exploring the intersection of **AI and security** — how AI systems c
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
@@ -97,5 +104,5 @@ Currently exploring the intersection of **AI and security** — how AI systems c
 </p>
 
 <p align="center">
-  <sub>💡 Open to internships, hackathons, and collaborations in cybersecurity & AI.</sub>
+  <sub>💡 Open to internships, hackathons, and collaborations in cybersecurity & AI security.</sub>
 </p>
