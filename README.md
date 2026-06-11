@@ -14,13 +14,13 @@
 
 ---
 
-### 🔒 About Me
+### 🧑‍💻 About Me
 
-🎓 **Economic Cybernetics, Statistics & Computer Science** — ASE Bucharest (2024-2027)
+🎓 **Economic Cybernetics, Statistics & Computer Science** - ASE Bucharest (2024-2027)
 
-I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes — from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage.
+I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage.
 
-Currently exploring the intersection of **AI and security** — how AI systems can be both a powerful tool and an attack surface.
+Currently exploring the intersection of **AI and security** - how AI systems can be both a powerful tool and an attack surface.
 
 ---
 
@@ -30,9 +30,12 @@ Currently exploring the intersection of **AI and security** — how AI systems c
   <tr>
     <td width="50%">
       <h3>🔐 <a href="https://github.com/Stevenenson/PrivAI-AIAgentHackathon2026">PrivAI</a></h3>
-      <p><strong>AI Agent Olympics — Milan AI Week 2026</strong></p>
+      <p><strong>AI Agent Olympics - Milan AI Week 2026</strong></p>
       <p><em>Fiera Milano, Italy · May 13-20 · $32K+ prize pool</em></p>
       <p>Privacy-first AI workspace where all data stays on-device in SQLite. Built with a team of 4 at Europe's largest AI conference. Features a privacy guard for PII redaction, autonomous agent workflows, and Gemini-powered multi-model intelligence.</p>
+      <p>
+        <a href="https://youtu.be/CqVDxY8nz9A"><img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -43,7 +46,7 @@ Currently exploring the intersection of **AI and security** — how AI systems c
     </td>
     <td width="50%">
       <h3>✈️ <a href="https://github.com/Stevenenson/JetSeeker-VibeHack2026">JetSeeker</a></h3>
-      <p><strong>VibeHack Bucharest — Vola.ro AI Challenge</strong></p>
+      <p><strong>VibeHack Bucharest - Vola.ro AI Challenge</strong></p>
       <p><em>Bucharest, Romania · March 14-15 · 24-hour build</em></p>
       <p>WhatsApp AI travel assistant that searches real flights via reverse-engineered API, analyses booking screenshots with vision LLMs, and identifies destinations from photos. Built for group chat dynamics.</p>
       <p>
@@ -59,7 +62,7 @@ Currently exploring the intersection of **AI and security** — how AI systems c
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -93,7 +96,7 @@ Currently exploring the intersection of **AI and security** — how AI systems c
 
 ---
 
-### 🌍 Languages
+### 🗣️ Languages
 
 🇷🇴 Romanian (Native) · 🇬🇧 English (B2/C1) · 🇫🇷 French (B1)
 
@@ -104,5 +107,5 @@ Currently exploring the intersection of **AI and security** — how AI systems c
 </p>
 
 <p align="center">
-  <sub>💡 Open to internships, hackathons, and collaborations in cybersecurity & AI security.</sub>
+  <sub>💼 Open to internships, hackathons, and collaborations in cybersecurity & AI security.</sub>
 </p>
