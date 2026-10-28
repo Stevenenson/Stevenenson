@@ -18,7 +18,7 @@
 
 🎓 **Economic Cybernetics, Statistics & Computer Science** - ASE Bucharest (2024-2027)
 
-I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage and fraud-detection tools for e-invoicing.
+I'm a third year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage and fraud-detection tools for e-invoicing.
 
 Currently exploring the intersection of **AI and security** - how AI systems can be both a powerful tool and an attack surface.
 
