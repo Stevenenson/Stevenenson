@@ -16,17 +16,17 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **Economic Cybernetics, Statistics & Computer Science** - ASE Bucharest (2024-2027)
+🎓 **Economic Cybernetics, Statistics & Computer Science** at ASE Bucharest (2024-2027)
 
 Third-year student who builds **AI agents** and the **FastAPI** backends behind them, and who likes taking systems apart to see how they really work. Most of what I know I learned by shipping working tools under hackathon pressure: one problem, a deadline, and code that has to run at the demo.
 
-- 🤖 **AI agents** - tool-calling pipelines, multi-turn context, web search and human-in-the-loop approvals (PrivAI, JetSeeker)
-- ⚡ **FastAPI backends** - SSE streaming, webhooks, background tasks, local-first storage
-- 🔍 **Reverse engineering** - mapping undocumented production APIs from network traffic, sessions and polling (JetSeeker × Vola.ro)
-- 🔗 **Real-world integrations** - live government APIs, rate limits, caching and hardened parsing of untrusted input (InvoiceGuard × ANAF)
-- 🔐 **Security by default** - PII redaction before prompts leave the device, XXE-safe XML, data stays local unless it has to leave
+- 🤖 **AI agents:** tool-calling pipelines, multi-turn context, web search and human-in-the-loop approvals (PrivAI, JetSeeker)
+- ⚡ **FastAPI backends:** SSE streaming, webhooks, background tasks, local-first storage
+- 🔍 **Reverse engineering:** mapping undocumented production APIs from network traffic, sessions and polling (JetSeeker × Vola.ro)
+- 🔗 **Real-world integrations:** live government APIs, rate limits, caching and hardened parsing of untrusted input (InvoiceGuard × ANAF)
+- 🔐 **Security by default:** PII redaction before prompts leave the device, XXE-safe XML, data stays local unless it has to leave
 
-**Right now:** building with AI coding agents to go from problem to shipped tool fast, and digging into what makes agents safe to trust - where AI is both a powerful tool and an attack surface.
+**Right now:** building with AI coding agents to go from problem to shipped tool fast, and digging into what makes agents safe to trust, the point where AI becomes both a powerful tool and an attack surface.
 
 ---
 
@@ -36,7 +36,7 @@ Third-year student who builds **AI agents** and the **FastAPI** backends behind 
   <tr>
     <td colspan="2">
       <h3>🛡️ <a href="https://github.com/Stevenenson/invoice-guard">InvoiceGuard</a> <sub><code>NEW</code></sub></h3>
-      <p><strong>ITFest 2026 - Challenge 4: verifying invoices before payment</strong></p>
+      <p><strong>ITFest 2026, Challenge 4: verifying invoices before payment</strong></p>
       <p><em>Romania · October 24-25</em></p>
       <p>Desktop app that checks every e-Factura invoice from ANAF's SPV <strong>before it gets paid</strong>. Verifies suppliers live against ANAF, catches changed IBANs, look-alike "clone" companies and duplicate invoices, and explains every verdict (Verified · Review · Blocked) in plain language for the accountant. Hardened XML parsing (XXE-safe), everything runs locally.</p>
       <p>
@@ -52,7 +52,7 @@ Third-year student who builds **AI agents** and the **FastAPI** backends behind 
   <tr>
     <td width="50%">
       <h3>🔐 <a href="https://github.com/Stevenenson/PrivAI-AIAgentHackathon2026">PrivAI</a></h3>
-      <p><strong>AI Agent Olympics - Milan AI Week 2026</strong></p>
+      <p><strong>AI Agent Olympics, Milan AI Week 2026</strong></p>
       <p><em>Fiera Milano, Italy · May 13-20 · $32K+ prize pool</em></p>
       <p>Privacy-first AI workspace where all data stays on-device in SQLite. Built with a team of 4 at Europe's largest AI conference. Features a privacy guard for PII redaction, autonomous agent workflows, and Gemini-powered multi-model intelligence.</p>
       <p>
@@ -68,7 +68,7 @@ Third-year student who builds **AI agents** and the **FastAPI** backends behind 
     </td>
     <td width="50%">
       <h3>✈️ <a href="https://github.com/Stevenenson/JetSeeker-VibeHack2026">JetSeeker</a></h3>
-      <p><strong>VibeHack Bucharest - Vola.ro AI Challenge</strong></p>
+      <p><strong>VibeHack Bucharest, Vola.ro AI Challenge</strong></p>
       <p><em>Bucharest, Romania · March 14-15 · 24-hour build</em></p>
       <p>WhatsApp AI travel assistant that searches real flights via reverse-engineered API, analyses booking screenshots with vision LLMs, and identifies destinations from photos. Built for group chat dynamics.</p>
       <p>
@@ -120,7 +120,7 @@ Third-year student who builds **AI agents** and the **FastAPI** backends behind 
 
 ### 🗣️ Languages
 
-🇷🇴 Romanian (Native) · 🇬🇧 English (B2/C1) · 🇫🇷 French (B1)
+🇷🇴 Romanian (Native) · 🇬🇧 English (C2) · 🇫🇷 French (B1)
 
 ---
 
