@@ -18,7 +18,7 @@
 
 🎓 **Economic Cybernetics, Statistics & Computer Science** - ASE Bucharest (2024-2027)
 
-I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage.
+I'm a second-year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage and fraud-detection tools for e-invoicing.
 
 Currently exploring the intersection of **AI and security** - how AI systems can be both a powerful tool and an attack surface.
 
@@ -27,6 +27,22 @@ Currently exploring the intersection of **AI and security** - how AI systems can
 ### 🏆 Hackathon Highlights
 
 <table>
+  <tr>
+    <td colspan="2">
+      <h3>🛡️ <a href="https://github.com/Stevenenson/invoice-guard">InvoiceGuard</a> <sub><code>NEW</code></sub></h3>
+      <p><strong>ITFest 2026 - Challenge 4: verifying invoices before payment</strong></p>
+      <p><em>Romania · October 24-25</em></p>
+      <p>Desktop app that checks every e-Factura invoice from ANAF's SPV <strong>before it gets paid</strong>. Verifies suppliers live against ANAF, catches changed IBANs, look-alike "clone" companies and duplicate invoices, and explains every verdict (Verified · Review · Blocked) in plain language for the accountant. Hardened XML parsing (XXE-safe), everything runs locally.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/pywebview-6C4CF1?style=flat" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/ANAF_API-1D4F91?style=flat" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3>🔐 <a href="https://github.com/Stevenenson/PrivAI-AIAgentHackathon2026">PrivAI</a></h3>
