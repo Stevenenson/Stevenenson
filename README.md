@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Building things that break, fix, and protect systems.</em>
+  <em>I build AI agents, ship fast APIs, and reverse-engineer what's under the hood.</em>
 </p>
 
 <p align="center">
@@ -18,9 +18,15 @@
 
 🎓 **Economic Cybernetics, Statistics & Computer Science** - ASE Bucharest (2024-2027)
 
-I'm a third year student passionate about **cybersecurity**, **AI security**, and building under pressure. I thrive in hackathons where I turn ambiguous problems into working prototypes - from reverse-engineering production APIs to building privacy-first AI workspaces with local-only data storage and fraud-detection tools for e-invoicing.
+Third-year student who builds **AI agents** and the **FastAPI** backends behind them, and who likes taking systems apart to see how they really work. Most of what I know I learned by shipping working tools under hackathon pressure: one problem, a deadline, and code that has to run at the demo.
 
-Currently exploring the intersection of **AI and security** - how AI systems can be both a powerful tool and an attack surface.
+- 🤖 **AI agents** - tool-calling pipelines, multi-turn context, web search and human-in-the-loop approvals (PrivAI, JetSeeker)
+- ⚡ **FastAPI backends** - SSE streaming, webhooks, background tasks, local-first storage
+- 🔍 **Reverse engineering** - mapping undocumented production APIs from network traffic, sessions and polling (JetSeeker × Vola.ro)
+- 🔗 **Real-world integrations** - live government APIs, rate limits, caching and hardened parsing of untrusted input (InvoiceGuard × ANAF)
+- 🔐 **Security by default** - PII redaction before prompts leave the device, XXE-safe XML, data stays local unless it has to leave
+
+**Right now:** building with AI coding agents to go from problem to shipped tool fast, and digging into what makes agents safe to trust - where AI is both a powerful tool and an attack surface.
 
 ---
 
